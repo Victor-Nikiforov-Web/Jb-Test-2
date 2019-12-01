@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+
+#card{
+margin:5px;
+height: auto;
+opacity: 90%;
+}
+img {
+    height: 100px;
+    width: 50%;
+}
+p {
+    margin: 0;
+    font-weight: bold;
+    display: list-item;
+
+}
+#cssName{
+    display: block;
+    color: yellowgreen;
+    font-size: 19px;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+body {
+    background-image: url("https://images.pexels.com/photos/2422/sky-earth-galaxy-universe.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+h1{
+    font-size: 72px;
+    font-family: 'Oswald', sans-serif;
+    color: #4285F4;
+}
+#border {
+    border: 7px solid;
+    opacity: 80%;
+    background-color: white;
+    margin: 0;
+}
